@@ -104,7 +104,7 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 ### <a name="education">Education</a>
 ---
 
-### Makers Academy ( February - September 2016 )
+### Makers Academy ( February - May 2016 )
 #### *Intensive full-stack web development course*
 
 + Agile principles (SOLID, TDD, BDD, Scrum)
@@ -118,7 +118,7 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 + RSpec, Capybara, Jasmine, Karma, Protractor
 + Heroku deployment
 
-### University College London ( March 2013 - May 2016 )
+### University College London ( March 2013 - September 2016 )
 #### *M.Phil. in Cancer Cell Biology*
 + Cancer Research UK Graduate Research Studentship recipient
 + Research Project: Mechanisms of Metastasis in Breast Cancer
