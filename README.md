@@ -70,7 +70,7 @@ From a complete beginner in coding, I have produced [over 15 projects](https://g
 #### Big Health ( August 2016 - Present )
 #### *Junior full-stack engineer*
 + Stack: ReactJS, Python/Flask, PHP, MySQL
-+ Development of a clinically-proved web/mobile application, Sleepio
++ Development of a clinically-proven web/mobile application, Sleepio
 + Thrown in at the deep end from day one, intellectually challenged every day
 + Autonomy and cross-team collaborations are the driving force of the product
 + Distupting a pharmaceutical paradigm by provoding a scalable digital medicine
